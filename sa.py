@@ -1,5 +1,4 @@
 import random
-
 from iottalkpy.dan import NoData
 
 # The registeration api url, you can use IP or Domain.
